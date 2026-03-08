@@ -1,0 +1,6 @@
+1) Python 3.X.X
+2) numpy
+3) pandas
+4) scikit-learn
+5) matplotlib
+6) seaborn

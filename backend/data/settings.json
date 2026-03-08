@@ -1,0 +1,23 @@
+{
+  "alerts": {
+    "criticalThreshold": 70,
+    "warnThreshold": 40,
+    "soundEnabled": true,
+    "autoDismissAfterMin": 0
+  },
+  "ai": {
+    "sensitivity": "balanced",
+    "showInsights": true,
+    "insightDetailLevel": "standard"
+  },
+  "ui": {
+    "theme": "light",
+    "compactMode": true,
+    "patientCardView": "table"
+  },
+  "system": {
+    "hospitalName": "SepsisGuard ICU",
+    "timezone": "Asia/Kolkata",
+    "version": "1.0.0"
+  }
+}
